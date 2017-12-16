@@ -1,0 +1,8 @@
+{
+  "name": "antitourism",
+  "app_id": "c3b9aabe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
